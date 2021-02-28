@@ -1,5 +1,5 @@
 # Machine-Learning-Image-Inpainting-with-RBF-Regression
-- Using a machine learning algorithm with RBF Regression, this algorithm model takes in a corrupted image with missing pixels or text overtop as an example and can remove the text and inperfections by blending, cropping image patches, reshaping the pixels values into vectors of the correct dimensions by inpainting (process of predicting the corrupted pixels).
+- Using a machine learning algorithm with RBF Regression and trains the algorithm on the training data, then evaluates its performance on the test set, this algorithm model takes in a corrupted image with missing pixels or text overtop as an example and can remove the text and inperfections by blending, cropping image patches, reshaping the pixels values into vectors of the correct dimensions by inpainting (process of predicting the corrupted pixels).
 - Figure 1 contains a visual example of what this algorithm does
 ![image](https://user-images.githubusercontent.com/35879872/109435913-e4087600-79ea-11eb-946f-25ee70e623bb.png)
 
